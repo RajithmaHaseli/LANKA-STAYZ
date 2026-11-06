@@ -90,6 +90,4 @@ Repository URL: https://github.com/RajithmaHaseli/LANKA-STAYZ.git
 
 AI tools were used as development assistance for code suggestions, troubleshooting, debugging, and documentation preparation. The suggestions were reviewed and adapted during the development process.
 
-## Author
 
-Lanka Stayz – Web Developer Technical Assessment
