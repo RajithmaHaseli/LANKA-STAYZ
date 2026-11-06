@@ -36,7 +36,7 @@ Lanka Stayz is a responsive accommodation booking website prototype designed to 
 
 ### 1. Clone the Repository
 
-    git clone YOUR_GITHUB_REPOSITORY_URL
+    git clone https://github.com/RajithmaHaseli/LANKA-STAYZ.git
 
 ### 2. Navigate to the Project Directory
 
@@ -84,7 +84,7 @@ Website URL: https://lanka-stayz-seven.vercel.app/
 
 ## GitHub Repository
 
-Repository URL: YOUR_GITHUB_REPOSITORY_URL
+Repository URL: https://github.com/RajithmaHaseli/LANKA-STAYZ.git
 
 ## AI Usage Disclosure
 
